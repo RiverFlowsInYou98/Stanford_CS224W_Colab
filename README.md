@@ -1,5 +1,5 @@
 # Stanford_CS224W_Colab
-My learning record for the course CS224W: Machine Learning with Graphs at Stanford
+Learning record for the course CS224W: **Machine Learning with Graphs** at Stanford University
 
 Course website: http://web.stanford.edu/class/cs224w/
 
