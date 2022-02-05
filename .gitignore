@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# personal settings
+Colab2/dataset/*
+Colab2/enzymes/*
